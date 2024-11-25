@@ -1,2 +1,2 @@
 # corona_update
-corona update with third party formspree email submission. Technology used HTML, CSS, Javascript
+corona static page with third party formspree email submission. Technology used HTML, CSS, Javascript
